@@ -1,0 +1,17 @@
+body{
+    margin: 20px;
+}
+
+/* Quitar subrayado de todos los enlaces dentro de listas */
+ul li a {
+  text-decoration: none; /* Quita subrayado */
+ 
+}
+
+.formulario_busqueda{
+    margin-top: 20px;
+}
+
+span{
+    font-weight: bold;
+}
