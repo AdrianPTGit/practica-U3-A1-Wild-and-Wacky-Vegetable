@@ -5,11 +5,13 @@ body{
 /* Quitar subrayado de todos los enlaces dentro de listas */
 ul li a {
   text-decoration: none; /* Quita subrayado */
- 
 }
 
 .formulario_busqueda{
     margin-top: 20px;
+}
+.img_margen{
+    margin-top: 15px;
 }
 
 span{
